@@ -1,0 +1,4 @@
+# Saída do teste local (python nuvem/montar_site.py --local ...): o site vai para o
+# GitHub Pages pela rotina, nunca pelo repositório
+site/
+__pycache__/
